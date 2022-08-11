@@ -1,0 +1,3 @@
+Next Steps:
+- integrate the algorithm with the grid output taken from running the asm game
+- optimize MCTS
